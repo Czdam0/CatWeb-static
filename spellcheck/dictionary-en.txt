@@ -1769,6 +1769,7 @@ phrase
 physical
 physically
 physician
+physics
 piano
 pick
 picture
